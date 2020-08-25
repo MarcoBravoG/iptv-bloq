@@ -1,0 +1,388 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="INDONESIA", GTV HD
+https://vcdn2.rctiplus.id/live/eds/gtv_fta/live_fta/gtv_fta-avc1_2000000=1-mp4a_64000_eng=2.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="INDONESIA", GTV
+https://vcdn2.rctiplus.id/live/eds/gtv_fta/live_fta/gtv_fta-avc1_1000000=3-mp4a_64000_eng=2.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="INDONESIA", MNC HD
+https://vcdn2.rctiplus.id/live/eds/mnctv_fta/live_fta/mnctv_fta-avc1_2000000=1-mp4a_64000_eng=2.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="INDONESIA", MNC
+https://vcdn2.rctiplus.id/live/eds/mnctv_fta/live_fta/mnctv_fta-avc1_1000000=3-mp4a_64000_eng=2.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="INDONESIA", RCTI HD
+https://vcdn2.rctiplus.id/live/eds/rcti_fta/live_fta/rcti_fta-avc1_2000000=1-mp4a_64000_eng=2.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="INDONESIA", RCTI
+https://vcdn2.rctiplus.id/live/eds/rcti_fta/live_fta/rcti_fta-avc1_1000000=3-mp4a_64000_eng=2.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="INDONESIA", INEWS HD
+https://vcdn2.rctiplus.id/live/eds/inews_fta/live_fta/inews_fta-avc1_2000000=1-mp4a_64000_eng=2.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="INDONESIA", INEWS
+https://vcdn2.rctiplus.id/live/eds/inews_fta/live_fta/inews_fta-avc1_1000000=3-mp4a_64000_eng=2.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="INDONESIA",ANTV
+http://210.210.155.35/qwr9ew/s/s07/02.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="INDONESIA",SCTV
+http://210.210.155.35/qwr9ew/s/s03/02.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="INDONESIA",INDOSIAR
+http://210.210.155.35/qwr9ew/s/s04/02.m3u8?app_type=mobile&userid=2m4n6yjvyen&tkn=KRHYTUJF1CXB6NERN2PF249FY9E1XFRK&chname=Indosiar
+
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="INDONESIA",NET
+http://210.210.155.35/qwr9ew/s/s08/02.m3u8?app_type=mobile&userid=2m4n6yjvyen&tkn=KRHYTUJF1CXB6NERN2PF249FY9E1XFRK&chname=NET.
+
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="INDONESIA",TRANS 7
+http://210.210.155.35:80/qwr9ew/s/s101/02.m3u8?app_type=mobile&userid=2m4n6yjvyen&tkn=CURG2HD4BSEXBXU0R06QXEJWCRIVSOFC&chname=Trans7
+
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="INDONESIA",TV ONE
+http://210.210.155.35:80/qwr9ew/s/s105/01.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="INDONESIA",TRANS TV
+http://210.210.155.35:80/x6bnqe/s/s252/02.m3u8?app_type=mobile&userid=2m4n6yjvyen&tkn=CURG2HD4BSEXBXU0R06QXEJWCRIVSOFC&chname=Trans_TV
+
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-Wr4Rkqj06zY/UfXxmjl4HkI/AAAAAAAAA2g/t-hzB8FGdnQ/s1600/lebaran2.gif" group-title="INDONESIA",RTV
+https://cdn-accedo-01.akamaized.net:443/Content/DASH/Live/channel(b84c57ee-7936-4c81-a9f5-29714084ce5b)/manifest.mpd
+
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-Wr4Rkqj06zY/UfXxmjl4HkI/AAAAAAAAA2g/t-hzB8FGdnQ/s1600/lebaran2.gif" group-title="INDONESIA",KOMPAS TV
+https://cdn-accedo-01.akamaized.net:443/Content/DASH/Live/channel(d3cde5d1-d8a8-422f-9eb1-fdd4b6f29ab8)/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="INDONESIA", METRO TV HD
+http://edge.metroTVnews.com:1935/live-edge/smil:metro.smil/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="INDONESIA", TVRI NASIONAL
+http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(04)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="INDONESIA", TVRI DKI JAKARTA
+http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIDKI)/Stream(03)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="INDONESIA", TVRI BUDAYA
+http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI3)/Stream(03)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="INDONESIA", BERITASATU
+http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/chunklist_b846000.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="INDONESIA", JTV
+https://cdn-accedo-01.akamaized.net:443/Content/DASH/Live/channel(da282ed9-7202-4e68-8a85-eee4f5776779)/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="INDONESIA", ID KU
+https://cdn-accedo-01.akamaized.net:443/Content/DASH/Live/channel(9c829723-9b34-49fd-bce4-53efa462576b)/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="INDONESIA",USEE PRIME
+https://cdn-accedo-01.akamaized.net:443/Content/DASH/Live/channel(e7243cff-628b-45a9-8361-11bade1e6021)/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="INDONESIA",USEE PHOTO
+https://cdn-accedo-01.akamaized.net:443/Content/DASH/Live/channel(28342aae-356c-46c1-b150-98ac3fb0fd5c)/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="INDONESIA",RUANG TERAMPIL
+https://cdn-accedo-01.akamaized.net:443/Content/DASH/Live/channel(56a81d9a-f190-463b-9a01-42f85674e8bd)/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="MALAYSIA", ASTRO NAURA
+https://agplayback03.aotg-video.astro.com.my/CH2/master_NAURAGOSHOP4.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="MALAYSIA", ASTRO RUUMA
+https://agplayback03.aotg-video.astro.com.my/CH1/master_GOSHOP_03.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="MALAYSIA", ASTRO GAAYA
+https://agplayback03.aotg-video.astro.com.my/CH3/master_GOSHOP3_04.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="MALAYSIA", ASTRO GOSHOP
+https://agplayback03.aotg-video.astro.com.my/CH1/master_GOSHOP.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="MALAYSIA", ASTRO AWANI
+https://bcsecurelivehls-i.akamaihd.net/hls/live/722763/4508222217001/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="MALAYSIA", ASTRO SURIA
+https://d11h6a6nhl9kj9.cloudfront.net/hls/suriactv/master02.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="MALAYSIA", DRAMA SANGAT
+https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/DramaSangat.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="MALAYSIA", RTM TV1
+https://rtm1mobile.secureswiftcontent.com:443/Origin01/ngrp:RTM1/chunklist_b464000.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="MALAYSIA", RTM TV2
+https://rtm2mobile.secureswiftcontent.com:443/Origin01/ngrp:RTM1/chunklist_b464000.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="MALAYSIA", TV3
+http://ts.lemmovie.com/55a7edc5-112d-47ce-92bd-d242cf580f46.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="MALAYSIA", TV7
+https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/NTV7.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="MALAYSIA", TV8
+https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/8TV.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="MALAYSIA", TV9
+https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/TV9.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="RELIGI", AHSAN TV
+http://119.82.224.75:1935/live/ahsantv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="RELIGI", AL IMAN
+http://vs.suaraaliman.com:1935/aliman/HD/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="RELIGI", AL-BAHJAH TV
+https://edge.siar.us/albahjahtv/live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="RELIGI", Hadi TV 2
+http://38.96.175.40:1935/liveTrans//channel2_800k/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-Wr4Rkqj06zY/UfXxmjl4HkI/AAAAAAAAA2g/t-hzB8FGdnQ/s1600/lebaran2.gif" group-title="RELIGI",MTA TV
+https://cdn-accedo-01.akamaized.net:443/Content/DASH/Live/channel(041307e6-5f66-42cc-9215-37bab1980265)/manifest.mpd
+
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-Wr4Rkqj06zY/UfXxmjl4HkI/AAAAAAAAA2g/t-hzB8FGdnQ/s1600/lebaran2.gif" group-title="RELIGI",RODJA TV
+https://cdn-accedo-01.akamaized.net:443/Content/DASH/Live/channel(77b296f5-13c9-42b1-ad8d-35ad237564f8)/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="RELIGI", NABAWI TV
+http://stream2.ninmedia.tv/nabawitv/nabawitv_360p/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="RELIGI", TAWAF TV
+http://stream2.ninmedia.tv:1935/tawaftv/rtmp.stream_360p/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="KIDS",ANIMAX
+http://210.210.155.35/dr9445/h/h144/01.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="KIDS",ANIPLUS
+http://210.210.155.35:80/dr9445/h/h02/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-Wr4Rkqj06zY/UfXxmjl4HkI/AAAAAAAAA2g/t-hzB8FGdnQ/s1600/lebaran2.gif" group-title="KIDS", DISNEY CHANNEL
+http://dmitry-tv.my1.ru/his/itv_zabava/01/CH_DISNEY.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="KIDS", DISNEY JUNIOR
+http://103.47.132.164/PLTV/88888888/224/3221226011/04.m3u8
+
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-Wr4Rkqj06zY/UfXxmjl4HkI/AAAAAAAAA2g/t-hzB8FGdnQ/s1600/lebaran2.gif" group-title="KIDS", POGO
+http://202.163.117.6:9981/stream/channelid/872564616
+
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="KIDS", Rooster Teeth TV
+https://d2klx6wjx7p5vm.cloudfront.net/Rooster-teeth/ngrp:Rooster-teeth_all/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="KIDS", TCT KIDS
+http://bcoveliveios-i.akamaihd.net/hls/live/206632/1997976452001/FamilyHLS/FamilyHLS_Live_1200.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="KIDS", TVO KIDS
+https://bcsecurelivehls-i.akamaihd.net/hls/live/623607/15364602001/tvokids/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="FASHION", Fashion TV MIDNIGHT
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="FASHION", Fashion TV Midnite Secrets
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="FASHION", Fashion TV Paris
+https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_paris_pg_4dg_27027_paris_pg18_188_hls.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="FASHION", WF
+http://wfc.bonus-tv.ru/cdn/wfcint/tracks-v2a1/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="FASHION", HD Fashion & LifeStyle
+http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="FASHION", JASMIN TV
+http://109.71.162.112:1935/live/sd.jasminchannel.stream/media_w852484650_6656.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="KNOWLEDGE", NAT GEO
+https://www.fanmingming.cn/hls/natlgeo.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="KNOWLEDGE", NAT GEO PEOPLE
+https://itpolly.iptv.digijadoo.net/live/nat_geo_people/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="KNOWLEDGE", NAT GEO Wild
+https://sc.id-tv.kz/NatGeoWildHD_34_35.m3u8?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="KNOWLEDGE", BBC Cbeebies
+http://51.52.156.22:8888/http/003
+
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="KNOWLEDGE", DMAX
+http://jviqfbc2.rocketcdn.com/dmax.smil/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="MUSIC", Joo Music
+https://streamer12.vdn.dstreamone.net/joomusic/joomusic/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="MUSIC", Kadak Hits
+http://linear01hun-lh.akamaihd.net/i/faaduhits_1@660838/index_2128_av-p.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="MUSIC", Euro Indie Music Chart
+http://178.33.224.197:1935/euroindiemusic/euroindiemusic/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="MUSIC", Jhanjar Music
+http://159.203.9.134/hls/jhanjar_music/jhanjar_music.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="MUSIC", DJing Animation
+https://www.djing.com/tv/animation.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="MUSIC", DJing Classics
+https://www.djing.com/tv/classics.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="MUSIC", DJing Dancefloor
+https://www.djing.com/tv/dancefloor.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="MUSIC", DJing Hits
+https://www.djing.com/tv/hits.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="MUSIC", DJing Karaoke
+https://www.djing.com/tv/karaoke.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="MUSIC", DJing Live
+https://www.djing.com/tv/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="MUSIC", DJing Underground
+https://www.djing.com/tv/underground.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="MUSIC", BOX HITS
+http://csm-e.tm.yospace.com/csm/extlive/boxplus01,boxhits-desktop.m3u8?yo.up=http%3a%2f%2fboxtv-origin-elb.cds1.yospace.com%2fuploads%2fboxhits%2f
+
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="MUSIC", Music Top
+http://live-edge01.telecentro.net.ar/live/msctphd-720/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="MUSIC", California Music Channel
+http://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="MUSIC", KARAOKE CHANNEL
+http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:karaokech/chunklist_b2288000.m3u8?
+
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="MUSIC", MTV
+http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="MOVIES", AXN
+http://136.243.177.164/AXN/index.m3u8?h=WTL4O0zvYYEAVfZX-dwXvg
+
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="MOVIES", AXN ID
+http://210.210.155.35/uq2663/h/h141/01.m3u8
+
+#EXTINF:-1 tvg-ID="" tvg-name="ID: Celestial Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/id/a/af/CMC_English_full_color_black_text_2.jpg" group-title="MOVIES",ID: Celestial Movies
+http://iptv-line.com:7899/live/caribbeanroots25-restream/DCPMNO4o/46471.m3u8
+
+#EXTINF:-1 tvg-ID="" tvg-name="ID: FOX Action Movies" tvg-logo="data:image/png;base64,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" group-title="MOVIES",ID: FOX Action Movies
+http://iptv-line.com:7899/live/caribbeanroots25-restream/DCPMNO4o/46446.m3u8
+
+#EXTINF:-1 tvg-ID="" tvg-name="ID: FOX Movies HD" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/433_300.png" group-title="MOVIES",ID: FOX Movies HD
+http://iptv-line.com:7899/live/caribbeanroots25-restream/DCPMNO4o/46450.m3u8
+
+#EXTINF:-1 tvg-ID="" tvg-name="ID: Star Chinese Movies HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/54/STAR_Movies_logo.svg/1200px-STAR_Movies_logo.svg.png" group-title="MOVIES",ID: Star Chinese Movies HD
+http://iptv-line.com:7899/live/caribbeanroots25-restream/DCPMNO4o/46443.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="MOVIES", HI! INDO
+https://cdn-accedo-01.akamaized.net:443/Content/DASH/Live/channel(dd5267e3-7a01-4e8d-81d8-a7bb927636e9)/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="MOVIES", KIX
+http://210.210.155.35/session/e269237c-7e3d-11e8-a249-b82a72d63267/uq2663/h/h07/01.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="MOVIES",SINEMA INDONESIA
+http://210.210.155.35:80/x6bnqe/s/s71/S4/mnf.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="MOVIES",CELESTIAL MOVIES 2
+http://210.210.155.35:80/qwr9ew/s/s33/01.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="MOVIES",CINEMA WORLD
+http://210.210.155.35:80/uq2663/h/h04/02.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="MOVIES",HITS
+http://210.210.155.35:80/uq2663/h/h37/01.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="MOVIES",K+
+http://210.210.155.35:80/uq2663/h/h08/01.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="MOVIES", & Prive HD
+http://103.214.202.218:8081/live/andprive-28/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="MOVIES", & Flix HD
+http://103.214.202.218:8081/live/andflix-29/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="MOVIES", SONY HD
+http://103.214.202.218:8081/live/sony-40/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="MOVIES",SONY GEM
+http://210.210.155.35:80/uq2663/h/h19/01.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="MOVIES",THRILL
+http://210.210.155.35/qwr9ew/s/s34/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-Wr4Rkqj06zY/UfXxmjl4HkI/AAAAAAAAA2g/t-hzB8FGdnQ/s1600/lebaran2.gif" group-title="MOVIES",TIC
+https://cdn-accedo-01.akamaized.net:443/Content/DASH/Live/channel(86fd852d-e9cb-453c-ac75-e0edc588483b)/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="MOVIES",ZEE BIOSKOP
+http://210.210.155.35:80/qwr9ew/s/s32/01.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="MOVIES", CINEMAX (HU/RO)
+http://193.33.39.108:8107/30709
+
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="MOVIES", CINEMAX 2 (HU/RO)
+http://193.33.39.108:8115/30914
+
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="MOVIES", HBO
+http://136.243.177.164/HBO/index.m3u8?h=WTL4O0zvYYEAVfZX-dwXvg
+
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="MOVIES", HBO 2
+http://136.243.177.164/HBO2/index.m3u8?h=308R7a2QNxrbpmxlKw8Ahw
+
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="MOVIES", HBO 3
+http://136.243.177.164/HBO3/index.m3u8?h=teJ1EKfjMkWIRvFHlkJG-Q
+
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="MOVIES", HI! INDO
+https://cdn-accedo-01.akamaized.net:443/Content/DASH/Live/channel(dd5267e3-7a01-4e8d-81d8-a7bb927636e9)/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="MOVIES", & Flix HD
+http://103.214.202.218:8081/live/andflix-29/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="SPORTS", FOX SPORTS 1
+https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="SPORTS", FOX SPORTS 2
+https://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="SPORTS", CCTV-5+
+http://111.40.205.87/PLTV/88888888/224/3221225689/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="SPORTS", RTM SPORT
+https://rtm2mobile.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b2064000.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="SPORTS", TVRI SPORT
+http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="SPORTS", EPL HD
+https://32x2cn7zz29m47vnqt4z-kyz6hw.p5cdn.com/abr_PSLME/zxcv/PSLME/zxcv_720p/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="SPORTS", EPL
+https://32x2cn7zz29m47vnqt4z-kyz6hw.p5cdn.com/abr_PSLME/zxcv/PSLME/zxcv_360p/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="SPORTS", MOTO GP
+http://183.182.100.184/live/pptvthai/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="SPORTS", MOTO GP 2
+http://79.106.48.2/live/rtsh_sport_ott_p3/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="SPORTS", SERI A ITALIA
+http://217.174.225.146/hls/ch004_720/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="SPORTS", UFC 1
+http://node01.openfutbol.es/SVoriginOperatorEdge/128761.smil/.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="SPORTS", UFC 2
+https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="SPORTS", UFC 3
+https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master.m3u8
+
+#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRkwV5u-nhYQWjcytmj-xWTlpGChemptHbuWw&usqp=CAU" ,ES : FOX SPORTS (CHAMPION)
+http://185.232.53.5:80/live/wickeduk/etqyhww45e/88755.m3u8
+
+#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRkwV5u-nhYQWjcytmj-xWTlpGChemptHbuWw&usqp=CAU" ,ES : FOX SPORTS 2
+http://185.232.53.5:80/live/wickeduk/etqyhww45e/88753.m3u8
+
+#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRkwV5u-nhYQWjcytmj-xWTlpGChemptHbuWw&usqp=CAU" ,ES : FOX SPORTS 3
+http://185.232.53.5:80/live/wickeduk/etqyhww45e/88754.m3u8
+
+#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRkwV5u-nhYQWjcytmj-xWTlpGChemptHbuWw&usqp=CAU" ,MX : FOX SPORTS
+http://185.232.53.5:80/live/wickeduk/etqyhww45e/88743.m3u8
+
+#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRkwV5u-nhYQWjcytmj-xWTlpGChemptHbuWw&usqp=CAU" ,MX : FOX SPORTS 2 (CHAMPION)
+http://185.232.53.5:80/live/wickeduk/etqyhww45e/88744.m3u8
+
+#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRkwV5u-nhYQWjcytmj-xWTlpGChemptHbuWw&usqp=CAU" ,MX : FOX SPORTS 3
+http://185.232.53.5:80/live/wickeduk/etqyhww45e/88745
