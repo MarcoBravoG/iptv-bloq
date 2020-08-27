@@ -1,4 +1,9 @@
 # iptv-bloq
+
+Pasos para instalar nuestra App descarga IPTV Y FORCE PLAYER en tu TV BOX o SmartPhone android
+
+
+
 Hola nuevo repositorio de IpTV
 
 TEXTO UNO
