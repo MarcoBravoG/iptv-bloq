@@ -1,0 +1,176 @@
+#EXTM3U
+#EXTINF:0 type="stream" channelId="-1" group="Without category" logo="http://127.0.0.1/", #1 Chicos IPe
+http://cdnh4.iblups.com/hls/OVJNKV4pSr.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Without category" logo="http://127.0.0.1/", #2 Luna TV 
+http://ss1.domint.net:2140/luna_str/lunatv/media_w719846308.m3u8
+#EXTINF:0 type="stream" channelId="-1", #3 HBTV
+http://k3.usastreams.com:1935/HBTV/HBTV/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="MEXICO" logo="https://i.imgur.com/H1AFRJh.png", #4 RTQ Queretaro
+http://wms.tecnoxia.com:1935/rytqrolive/rytqrolive/master.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="peliculas" logo="http://sivar.tv/wp-content/uploads/2016/05/canal-24-occidente.png", #5 Wow TV
+http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8?
+#EXTINF:0 type="stream" channelId="2663", #6 Telesur
+http://k3.usastreams.com:1935/telesur/telesur/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="MEXICO" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Multimedios_Television.png/200px-Multimedios_Television.png", #7 Multimedios Monterrey
+http://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="MEXICO" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Multimedios_Television.png/200px-Multimedios_Television.png", #8 Multimedios CDMX
+http://mdstrm.com/live-stream-playlist/5b80728b0a2ea475ba2359a5.m3u8?ref=http://www.multimedios.com
+#EXTINF:0 type="stream" channelId="-1" group="noticias" logo="http://photocall.tv/images/multivision.png", #9 Multivision
+http://panel.dattalive.com:1935/8250/8250/.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Entretenimiento" logo="http://3.bp.blogspot.com/-gDfpykQXiAY/TtedvKOo74I/AAAAAAAARQ4/p6pXiwKtz08/s1600/tlx.png", #10 TLX
+http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w1527043435_b1828000_sleng.m3u8?eamogratis?Entretenimiento.m3u8
+#EXTINF:0 type="stream" channelId="-1" name="achoAPPS.com TEN HD" group="MX: achoAPPS.com Mexico" logo="http://127.0.0.1/" tvg-country="mx", #11 TEN TV
+http://stream.grupoabchn.com:1935/TENHD/TENLive.smil/master.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="entretenimineto" logo="http://photocall.tv/images/telemax.png", #12 Telemax
+http://s5.mexside.net:1935/telemax/telemax/.m3u8
+#EXTINF:0 type="stream" channelId="2489" group="entretenimiento" logo="http://puu.sh/mb2AM/887927ece3.png", #13 Canal Once
+http://live.canaloncelive.tv:1935/livepkgr2/smil:internacional.smil/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="MEXICO" logo="http://nrtmexico.mx/site/images/sampledata/icetheme/slideshow/c4_slide_a.jpg", #14 Canal 4 Monclova
+http://162.241.190.126:1935/live/canal4/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", #15 Canal 4
+http://184.154.28.210:1935/canal4/canal4/live.m3u8
+#EXTINF:0 type="stream" channelId="2725" group="Entretenimiento" logo="http://photocall.tv/images/13max.png", #16 13 MAX
+http://coninfo.net:1935/13maxhd/live_720p/.m3u8
+#EXTINF:0 type="stream" channelId="-1" name="achoAPPS.com TELEMAR CAMPECHE" group="entretenimiento" logo="http://127.0.0.1/" tvg-country="mx", #17 Telemar
+http://wms.tecnoxia.com:1935/8006/8006/playlist.m3u8
+#EXTINF:0 type="stream" channelId="2531" group="entretenimiento" logo="http://127.0.0.1/", #18 TV Galicia
+http://america-crtvg.flumotion.com/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", #19 Antares TV
+http://173.192.105.252:1935/iptvantares/liveantarestv/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="entretenimiento" logo="http://i.imgur.com/LHn9ofg.png", #20 Contivision Constitucion
+https://unlimited4-cl.dps.live/contivision/contivision.smil/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="entretenimiento" logo="http://127.0.0.1/", #21 Canal Capital HD
+https://mdstrm.com/live-stream-playlist/57d01d6c28b263eb73b59a5a.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="entretenimiento" logo="https://upload.wikimedia.org/wikipedia/commons/a/af/Eitb_corp.png", #22 EITB 2
+https://etbvnogeo-lh.akamaihd.net/i/ETBSTR2_1@595582/index_2596_av-p.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="ARGENTINA" logo="http://cpradof.darkwebrepo.gq/logos/7%20canal%20de%20noticias.png", #23 24/7 Noticias
+http://59c5c86e10038.streamlock.net:1935/6605140/6605140/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", #24 Milenio
+http://bcoveliveios-i.akamaihd.net/hls/live/201661/57828478001/milenio_center_512k@51752.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="MEXICO" logo="http://www.rcgespectaculares.com.mx/images/rcg-logo-2014-288.png", #25 RCG TV2
+http://wowzacontrol.com:1936/stream23/stream23/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="MEXICO" logo="https://i.imgur.com/LEBQ8B5.png", #26 RCG TV3
+http://wowzacontrol.com:1936/stream56/stream56/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", #27 Canal 26
+http://200.115.193.177/live/26hd-720/.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="entretenimiento" logo="https://i.vimeocdn.com/portrait/8846221_300x300", #28 Canal 10
+http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" name="achoAPPS.com MICROVISION 10" group="entretenimiento" logo="http://127.0.0.1/" tvg-country="mx", #29 Microvision 10
+http://190.103.183.24:1935/live/MicroHD/chunklist_w1468779956.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="MUSICA" logo="https://lh3.googleusercontent.com/i1MJYrbhLfwErktZjjue1a98T6n8yzU6sNo-3b_ihoQglxFGipTO4yfmqBBk4AC7lA=s180-rw", #30 Frecuencia Musical Tv
+http://streaminglivehd.com:1935/8056/8056/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Without category" logo="http://127.0.0.1/", #31 telenord 8
+http://newyorkstreamss2.ddns.net:28987/telenord8/telenord8/chunklist_w588013183.m3u8
+#EXTINF:0 type="stream" channelId="4237" group="entretenimiento" logo="http://127.0.0.1/", #32 VTV
+http://cdn.streamingmedia.cl:1935/live//vtvvina/playlist.m3u8?iptvgratis?chile.m3u8
+#EXTINF:0 type="stream" channelId="2285" group="musica" logo="http://127.0.0.1/", #33 M2o Tv
+http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?iptvgratis?chile.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="musica" logo="https://advancescreenings.com/img/outlets/c/california_music_channel.jpg", #34 California Music Channel
+http://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/.m3u8
+#EXTINF:0 type="stream" channelId="-1" name="achoAPPS.com COLOSAL TV" group="musica" logo="http://127.0.0.1/" tvg-country="mx", #35 Colosal TV
+http://tv.ticosmedia.com:1935/COLOSAL/COLOSAL/playlist.m3u8
+#EXTINF:0 type="stream" channelId="2285" group="Musica", #36 M2O TV
+http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?sd=10&amp;rebase=on
+#EXTINF:0 type="stream" channelId="-1" group="musica" logo="http://127.0.0.1/", #37 Retro Tv
+http://stream.mediawork.cz/retrotv/retrotvHQ1/chunklist_w627639048.m3u8?iptvgratis?chile.m3u8
+#EXTINF:0 type="stream" channelId="1914" group="musica" logo="http://127.0.0.1/", #38 TMTV
+http://streamingcws20.com:1935/tmtv/videotmtv/.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="musica", #39 Teleritmo
+http://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
+#EXTINF:0 type="stream" channelId="-1", #40 MTV NOW
+http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="musica" logo="http://photocall.tv/images/musictop.png", #41 Music Top
+http://live-edge01.telecentro.net.ar/live/musictop.smil/.m3u8
+#EXTINF:0 type="stream" channelId="-1", #42 PFM TV
+http://149.56.17.92:1935/portalfoxmix/_definst_/portalfoxmix/chunklist_w1915378513.m3u8?iptvgratis?chile.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="musica" logo="https://pbs.twimg.com/profile_images/742490028559982592/ddFmTivZ_400x400.jpg", #43 La Mega Mundial
+http://68.235.35.243:1935/lamegamundial/lamegamundial2/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="musica", #44 Bolivia TV
+http://btvboliviatv.srfms.com:6568/live/livestream/playlist.m3u8
+#EXTINF:0 type="stream" channelId="352" group="entretenimiento", #45 DW
+http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_5_av-p.m3u8?sd=10&rebase=on
+#EXTINF:0 type="stream" channelId="-1" group="deportes", #46 Fight Time
+http://node01.openfutbol.es/SVoriginOperatorEdge/128761.smil/.m3u8
+#EXTINF:0 type="stream" channelId="2799" group="USA" logo="http://127.0.0.1/", #47 TravelHD
+http://31.13.223.104:1935/travel/community.stream/chunklist_w511463959.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="USA" logo="http://127.0.0.1/", #48 American Horrors
+http://170.178.189.66:1935/live/Stream1/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="USA", #49 The Weather Channel
+http://weather-lh.akamaihd.net/i/twc_1@92006/index_2400_av-p.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="USA", #50 NBS News
+http://161.0.157.50/PLTV/88888888/224/3221227040/03.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="USA", #51 CBN NEWS
+http://bcliveuniv-lh.akamaihd.net:80/i/news_1@194050/index_900_av-p.m3u8
+#EXTINF:0 type="stream" channelId="143" group="USA", #52 Russia Today
+http://rt-usa.secure.footprint.net:80/1105.m3u8?streamType=live
+#EXTINF:0 type="stream" channelId="139" group="USA", #53 France 24
+http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="USA", #54 Inspiration TV
+http://inspnetworks-lh.akamaihd.net/i/insp_2@393793/master.m3u8
+#EXTINF:0 type="stream" channelId="119" group="USA" logo="http://127.0.0.1/", # 55 Bloomberg TV
+https://liveproduseast.global.ssl.fastly.net/btv/desktop/us_live.m3u8
+#EXTINF:0 type="stream" channelId="-1", # 56 TS
+http://video.telesafor.com/hls/video_low.m3u8
+#EXTINF:0 type="stream" channelId="-1", # 57 NOBTOP
+http://streams.sibinformburo.cdnvideo.ru/sibinformburo/sibinformburo.sdp/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", #58 VOA
+http://voa-lh.akamaihd.net/i/voa_mpls_tvmc3_3@320295/master.m3u8
+#EXTINF:0 type="stream" channelId="-1", #59 HLS
+http://190.11.224.14:8134/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
+#EXTINF:0 type="stream" channelId="-1", #60 Ebenezer TV2
+http://hds4.worldkast.com:1935/ebenezertv2/ebenezertv2/live.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="CHILE" logo="http://www.graciatv.com/wp-content/uploads/2018/07/gif-gracia.gif", #61 Gracia TV
+http://v3.tustreaming.cl/graciatv/live1/index.m3u8?fluxustv.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="ESPAÑA" logo="https://i.imgur.com/OKXbIr9.png", #62 Lebrija TV
+http://212.104.160.156:1935/live/lebrijatv2/playlist3.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="SPAIN" logo="https://1.bp.blogspot.com/-twjWLzywppo/VnBHIEtqgRI/AAAAAAAABOY/ZiwcFOt-rcg/s1600/rtvce.jpeg", #63 RTVCE
+http://teledifusion.tv:1935/rtvcetv/rtvcetvlive/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="USA", #64 AKC TV
+https://video.blivenyc.com/broadcast/prod/2061/22/file-3192k.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="USA", #65 Atlanta Channel
+http://media4.tripsmarter.com:1935/LiveTV/ACVBHD/chucklist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="USA", Beach TV - #66 30A
+http://media4.tripsmarter.com:1935/LiveTV/DTVHD/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="USA", Beach TV - #67 Panama City
+http://media4.tripsmarter.com:1935/LiveTV/BTVHD/chucklist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="USA", Beach TV - #68 Pawleys Island
+http://media4.tripsmarter.com:1935/LiveTV/MTVHD/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="USA", #69 Black Cinema
+https://stitcher.pluto.tv/stitch/hls/channel/561c5b0dada51f8004c4d855/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=6e360db0-724b-11e8-be77-bf4d1417b012&deviceId=889540f0-712d-11e8-b9ec-8ba319deeadf&deviceVersion=37.0.2049.0&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.5783&deviceLon=-90.6666&app_name=&appName=&appStoreUrl=&serverSideAds=true
+#EXTINF:0 type="stream" channelId="-1" group="USA", #70 Denver 8 TV
+http://granicusliveus8-a.akamaihd.net/denver/G0080_002/chunklist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="USA", #71 FrontDoor
+https://stitcher.pluto.tv/stitch/hls/channel/5938888cd045ffce74cf9048/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=88958f10-712d-11e8-b9ec-8ba319deeadf&deviceId=889540f0-712d-11e8-b9ec-8ba319deeadf&deviceVersion=37.0.2049.0&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.5783&deviceLon=-90.6666&app_name=&appName=&appStoreUrl=&serverSideAds=true
+#EXTINF:0 type="stream" channelId="-1" group="USA", #72 IndieWave
+https://vcnindiewave.teleosmedia.com/stream/indiewave/indiewave/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="USA", #73 KBVR TV
+http://klive-a.akamaihd.net/dc-0/live/hls/p/391241/e/0_bthpnu1j/sd/10000/t/YwqLo1YivB_aumq-LxAuWg/master.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="USA", #74 Key TV
+http://media4.tripsmarter.com:1935/LiveTV/KTVHD/chunklist_w363623166.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="USA", #75 Red Bull TV HD
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="USA", #76 Southeastern Channel
+http://147.174.13.196/live/WIFI-1296k-540p/WIFI-1296k-540p.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="USA", #77 TSTV
+http://tstv-stream.tsm.utexas.edu/hls/livestream_hi/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Without category" logo="http://127.0.0.1/", #78 NBC
+http://161.0.157.51/PLTV/88888888/224/3221227040/03.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Without category" logo="http://127.0.0.1/", #79 PIGUINO TV HD
+http://streaming.elpinguino.com:1935/live/pinguinotv_720p/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Without category" logo="http://127.0.0.1/", #80 MODA:HD Fashion
+http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Without category" logo="http://127.0.0.1/", #81 CGTN 1
+https://livees.cgtn.com/1000e/prog_index.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="PERU" logo="http://www.ssb.com.pe/images/monterrico%20tv.jpg", #82 Monterrico TV
+http://vs8.live.opencaster.com/20100152275/jcpstream/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="PERU" logo="https://ulango.tv/uploads/channels/3781231/logo_cultura%2024.png", #83 Cultura 24
+http://vs8.live.opencaster.com/cultura24/smil:cultura24/chunklist_w1710773429_b564000_sles.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="HONDURAS" logo="http://4.bp.blogspot.com/-4_4lQS5_e0g/VmfAAPjGsgI/AAAAAAAAAjY/QCMhrAcZUYE/s1600/TEN.jpg", # 84 TEN 10
+http://stream.grupoabchn.com:1935/TENHD/TENLive.smil/chunklist_w1445105875_b1248000.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Without category" logo="http://127.0.0.1/", #85 Televisión Rionegrina
+http://panel.dattalive.com:1935/8204/8204/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Without category" logo="http://127.0.0.1/", #86 TVN Nicaragua
+http://162.244.81.181:1935/live//Stream1/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" name="achoAPPS.com ESPERANZA TV USA" group="MX: achoAPPS.com Mexico" logo="http://127.0.0.1/" tvg-country="mx", #87 Esperanza TV
+http://k3.usastreams.com:1935/etvSD/etvSD/playlist.m3u8
+
